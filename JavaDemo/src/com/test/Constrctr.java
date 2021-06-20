@@ -21,6 +21,8 @@ public class Constrctr {
 		Constrctr c =new Constrctr(5,6);
 		System.out.println("1st number is :" +c.a);
 		System.out.println("2nd numbers is :" +c.b);
+		System.out.println("Done");
+		
 
 	}
 
