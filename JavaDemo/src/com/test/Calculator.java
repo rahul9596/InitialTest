@@ -38,6 +38,7 @@ public class Calculator
  
  public void anonymous()
  {
+	 any=(a1*a2)+a1;
 	 any=(a1*a2)+a2;
  }
  
